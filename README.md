@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhiltop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in exploring new things
+- 🌱 I’m currently learning various new technologies
+- 💞️ I’m looking to collaborate on young and dynamic developers
 - 📫 How to reach me ...
 
 <!---
@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hello My Friend
-    <a href="https://www.instagram.com/yadlapalliakhil/">
+
+<a href="https://www.instagram.com/yadlapalliakhil/">
       <img
         align="left"
         alt="Akhil's Instagram"
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
       />
     </a>
 
-    <br />
-
-    hi, i'm [Akhil Yadlapalli](https://akhil.github.io/), a passionate full
-    stack web developer in India.
+   <hr>
+   <h1>   Hello my friend</h1>
+<h3>	 I'm <a href="https://akhil.github.io/">Akhil Yadlapalli</a>, a passionate full
+stack web developer in India.	</h3>
