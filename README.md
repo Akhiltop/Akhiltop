@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 
    <hr>
    <h1>   Hello my friend</h1>
-<h3>	 I'm <a href="https://akhil.github.io/">Akhil Yadlapalli</a>, a passionate full
+<h3>	 I'm <a href="https://akhil.github.io/">Akhil Yadlapalli</a> from India, a passionate full
 stack web developer in India.	</h3>
