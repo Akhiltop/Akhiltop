@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
   
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Akhiltop/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Akhiltop">
 </a>
 <a href="https://github.com/Akhiltop?tab=followers"><img src="https://img.shields.io/github/followers/Akhiltop?label=Followers&style=social" alt="GitHub Badge"></a>
