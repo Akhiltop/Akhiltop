@@ -26,6 +26,34 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     </div>
 
+## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/Akhiltop/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akhil streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhiltop&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+   
+</p>
+<div align="center"> 
+  <br/>
+    <a href="https://github.com/Akhiltop/github-readme-stats"><img alt="Akhil Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akhiltop&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Akhiltop/github-readme-stats"><img alt="Akhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiltop&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Akhiltop/github-readme-activity-graph"><img alt="Akhil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhiltop&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
+
+
 
 
 <!---
@@ -68,7 +96,12 @@ You can click the Preview link to take a look at your changes.
       />
     </a>
 <br>
-   <hr>
-   <h1>   Hello my friend</h1>
-<h3>	 I'm <a href="https://akhil.github.io/">Akhil Yadlapalli</a> from India, a passionate full
-stack web developer in India.	</h3>
+  
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Akhiltop">
+</a>
+<a href="https://github.com/Akhiltop?tab=followers"><img src="https://img.shields.io/github/followers/Akhiltop?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
