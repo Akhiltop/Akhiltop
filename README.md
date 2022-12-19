@@ -38,18 +38,16 @@
   <br/>
     <a href="https://github.com/Akhiltop/github-readme-stats"><img alt="Akhil Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akhiltop&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Akhiltop/github-readme-stats"><img alt="Akhil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiltop&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+    
+    
   <br/>
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<img alt="Akhil's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhiltop&theme=2077" />
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/Akhiltop/github-readme-activity-graph"><img alt="Akhil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akhiltop&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 
 
