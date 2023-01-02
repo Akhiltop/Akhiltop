@@ -15,7 +15,7 @@
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning various new technologies
 - 💞️ I’m looking to collaborate on young and dynamic developers
-- 👨‍💻 All of my projects are available at my **[Portfolio](https://akhil.github.io/)**
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://akhiltop.github.io/)**
 
 ## 🚀 Languages and Tools:
 
