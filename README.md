@@ -15,7 +15,7 @@
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning various new technologies
 - 💞️ I’m looking to collaborate on young and dynamic developers
-- 👨‍💻 All of my projects are available at my **[Portfolio](https://akhiltop.github.io/)**
+- 👨‍💻 You can know more of me at my **[Portfolio](https://akhiltop.github.io/)**
 
 ## 🚀 Languages and Tools:
 
@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
         align="left"
         alt="Akhil's Instagram"
         width="22px"
-        src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"
+        src="https://github.com/Akhiltop/Akhiltop.github.io/blob/main/image_files/instagram.png"
       />
     </a>
     <a href="https://discordapp.com/users/akhil007#0075">
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
         align="left"
         alt="Akhil's Discord"
         width="22px"
-        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"
+        src="https://github.com/Akhiltop/Akhiltop.github.io/blob/main/image_files/discord.svg"
       />
     </a>
     <a href="https://twitter.com/yadlapalliakhi1">
@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
         align="left"
         alt="Akhil | Twitter"
         width="22px"
-        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"
+        src="https://github.com/Akhiltop/Akhiltop.github.io/blob/main/image_files/twitter.svg"
       />
     </a>
     <a href="https://www.linkedin.com/in/akhil-yadlapalli/">
@@ -95,7 +95,15 @@ You can click the Preview link to take a look at your changes.
         align="left"
         alt="Akhil's LinkedIN"
         width="22px"
-        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
+        src="https://github.com/Akhiltop/Akhiltop.github.io/blob/main/image_files/linkedin.svg"
+      />
+    </a>
+    <a href="https://akhiltop.github.io/">
+      <img
+        align="left"
+        alt="Akhil's Portfolio"
+        width="22px"
+        src="https://github.com/Akhiltop/Akhiltop.github.io/blob/main/image_files/portfolio.png"
       />
     </a>
 <br>
